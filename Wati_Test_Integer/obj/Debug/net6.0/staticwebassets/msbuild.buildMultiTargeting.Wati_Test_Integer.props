@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Wati_Test_Integer.props" />
+</Project>
